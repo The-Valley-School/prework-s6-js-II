@@ -1,4 +1,4 @@
-**EJERCICIO 1**
+## EJERCICIO 1
 
 ```js
 /* 
@@ -25,7 +25,7 @@ persona.sexo = "Hombre";
 console.log(marcaZapatilla);
 ```
 
-**EJERCICIO 2**
+## EJERCICIO 2
 
 ```js
 /* 
@@ -54,7 +54,7 @@ if ( (2022 - coche.ano) > 25 ) {
 } 
 ```
 
-**EJERCICIO 3**
+## EJERCICIO 3
 
 ```js
 /* 
