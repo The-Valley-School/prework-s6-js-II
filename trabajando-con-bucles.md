@@ -1,6 +1,6 @@
 Vamos ahora a hacer 3 ejercicios para asentar los conocimientos de bucles. Nos vamos a centrar en el bucle FOR que es el que más utilizaremos a lo largo de nuestros desarrollos.
 
-**EJERCICIO 1**
+## EJERCICIO 1
 
 ```js
 // Cuenta del 330 al 910
@@ -10,7 +10,7 @@ for (let i = 330; i <= 910; i++) {
 }
 ```
 
-**EJERCICIO 2**
+## EJERCICIO 2
 
 ```js
 // Suma todos los números pares del 1 al 1000 (sin incluir el 1000)
@@ -26,8 +26,7 @@ for (let i = 1; i < 1000; i++){
 
 console.log(sumador);
 ```
-
-**EJERCICIO 3**
+## EJERCICIO 3
 
 ```js
 // Cuenta el número de 'i' que tiene la palabra 'supercalifragilisticoespialidoso’
