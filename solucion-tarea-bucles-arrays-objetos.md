@@ -1,4 +1,4 @@
-**EJERCICIO 1**
+## EJERCICIO 1
 
 ```js
 /*
@@ -22,7 +22,7 @@ console.log(sumador);
 console.log(numerosPares);
 ```
 
-**EJERCICIO 2**
+## EJERCICIO 2
 
 ```js
 /*
@@ -46,7 +46,7 @@ for (let i = (peliculas.length - 1); i >= 0; i--){
 }
 ```
 
-**EJERCICIO 3**
+## EJERCICIO 3
 
 ```js
 /*
@@ -74,7 +74,7 @@ for (let i = 0; i < peliculas.length; i++){
 console.log(mayor10);
 ```
 
-**EJERCICIO 4**
+## EJERCICIO 4
 
 ```js
 /* 
