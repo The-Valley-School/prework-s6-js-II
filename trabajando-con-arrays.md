@@ -1,4 +1,4 @@
-**EJERCICIO 1**
+## EJERCICIO 1
 
 ```js
 /*
@@ -20,7 +20,7 @@ console.log(frutas.length) // Verificamos la longitud del array
 
 ```
 
-**EJERCICIO 2**
+## EJERCICIO 2
 
 ```js
 /*
@@ -38,7 +38,7 @@ for ( let i = 1; i <= 20; i++ ) {
 console.log(listadoNumeros) // Comprobamos el array
 ```
 
-**EJERCICIO 3**
+## EJERCICIO 3
 
 ```js
 /*
