@@ -1,4 +1,4 @@
-**DEFINICIÓN DE OBJETOS**
+## DEFINICIÓN DE OBJETOS
 
 Tras aprender los tipos de datos primitivos y los arrays vamos ahora a aprender que son los OBJETOS.
 
@@ -41,7 +41,7 @@ Todas las propiedades no asignadas son de tipo UNDEFINED
 zapatilla.color; //undefined
 ```
 
-**ACCESO A OBJETOS**
+## ACCESO A OBJETOS
 
 Para acceder al valor de una propiedad de un objeto tendríamos también la siguiente sintaxis:
 
@@ -65,7 +65,7 @@ let marcaZapatilla = zapatilla["marca"];
 console.log(marcaZapatilla);
 ```
 
-**MODIFICACIÓN DE OBJETOS**
+## MODIFICACIÓN DE OBJETOS
 
 De igual manera, para modificar una propiedad de un objeto podríamos hacer lo siguiente. 
 
