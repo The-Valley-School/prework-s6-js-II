@@ -2,7 +2,7 @@ A la hora de trabajar en JS, muchas veces nos encontraremos ante la necesidad de
 
 A lo largo del vídeo vamos a ver 2 tipos de bucles, FOR , WHILE y DO WHILE
 
-**BUCLE FOR**
+## BUCLE FOR
 
 El bucle FOR nos va a permitir repetir un trozo de código el número de veces que le digamos.
 
