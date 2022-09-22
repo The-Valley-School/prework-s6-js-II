@@ -1,4 +1,4 @@
-**DEFINICIÓN DE ARRAYS**
+## DEFINICIÓN DE ARRAYS
 
 Tras ver los tipos de datos primitivos, vamos ahora a ver otro tipo de datos, que son los arrays. A lo largo del master profundizaremos más sobre ellos pero de momento vamos a ver qué son y cómo trabajar con ellos. 
 
@@ -16,7 +16,7 @@ let listaCompra = [ "Manzanas", "Peras", "Carne", "Papel de cocina"];
 let varios = [3, "Manzanas", null, 18, true];
 ```
 
-**ACCEDER A LOS ELEMENTOS DE UN ARRAY**
+## ACCEDER A LOS ELEMENTOS DE UN ARRAY
 
 Para acceder a los elementos de un array tenemos que entender el mismo como un listado, que empieza en 0. Al igual que cuando hemos trabajado con los caracteres de un string.
 
@@ -28,7 +28,7 @@ console.log(personaje); //Mostrará por consola a Homer
 
 Homer es la **posición 0** del array, Marge sería la **posición 4.**
 
-**PROPIEDAD LENGTH**
+## PROPIEDAD LENGTH
 
 Para conocer el número de elementos de un array se puede consultar con la propiedad length.
 
@@ -45,7 +45,7 @@ for ( let i = 0; i < familiaSimpson.length; i++){
 }
 ```
 
-**MANIPULAR EL ARRAY**
+## MANIPULAR EL ARRAY
 
 Podemos también modificar un elemento concreto del array si indicamos su posición.
 
@@ -56,7 +56,7 @@ familiaSimpson[1] = "Mou"; //Estamos cambiando a Bart por Mou
 console.log(familiaSimpson);
 ```
 
-**POP Y PUSH**
+## POP Y PUSH
 
 Pop y push son dos métodos con los cuales podemos eliminar y añadir elemento al final del array.
 
