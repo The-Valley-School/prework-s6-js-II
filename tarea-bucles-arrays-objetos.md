@@ -1,4 +1,4 @@
-**EJERCICIO 1**
+## EJERCICIO 1
 
 ```js
 /*
@@ -8,7 +8,7 @@
 */
 ```
 
-**EJERCICIO 2**
+## EJERCICIO 2
 
 ```js
 /*
@@ -27,7 +27,7 @@
 
 ```
 
-**EJERCICIO 3**
+## EJERCICIO 3
 
 ```js
 /*
@@ -43,7 +43,7 @@
 
 ```
 
-**EJERCICIO 4**
+## EJERCICIO 4
 
 ```js
 /* 
