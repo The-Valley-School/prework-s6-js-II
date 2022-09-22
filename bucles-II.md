@@ -1,4 +1,4 @@
-**BUCLE WHILE**
+## BUCLE WHILE
 
 El bucle WHILE nos permite iterar un trozo de código mientras se cumpla una condición. 
 
@@ -23,7 +23,7 @@ while (n <= 3){
 
 En cada iteración vamos aumentando el valor de n. El bucle se repetirá hasta que n valga 3.
 
-**BUCLE DO…WHILE**
+## BUCLE DO…WHILE
 
 El bucle DO..WHILE nos permite también iterar un trozo de código mientras se cumpla una condición. La diferencia con el bucle WHILE es que la comprobación se realiza al finalizar la iteración por lo que como mínimo siempre va a pasar una vez por el bucle. La sintaxis es la siguiente:
 
